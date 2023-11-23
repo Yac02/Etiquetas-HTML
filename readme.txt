@@ -22,4 +22,4 @@ ctrl + k + c : crear un comentario en el body
   <img src="ruta" alt="mensaje de accesibilidad" />
 
   ## ENCABEZADOS
-  1. etiquetas que nos permiten mostrar titulos y/o subtitulos najo una jerarquia
+  1. etiquetas que nos permiten mostrar titulos y/o subtitulos bajo una jerarquia
